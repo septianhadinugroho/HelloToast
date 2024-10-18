@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Hello Toast Jumat</string>
+    <string name="button_label_toast">Toast</string>
+    <string name="count_initial_value">0</string>
+    <string name="button_label_count">Count</string>
+    <string name="text_header">Halaman ke-2</string>
+    <string name="button_label_pindah">Switch Page</string>
+    <string name="button_label_browser">My Portfolio</string>
+    <string name="button_reset">Reset</string>
+    <string name="button_maps">Maps</string>
+</resources>
